@@ -2,11 +2,11 @@
 
 Kukin tehtävänanto löytyy erillisestä `.py`-tiedostosta. Tehtävien ratkaisut tulee toteuttaa näihin samoihin tiedostoihin ratkaisuille varattuihin kohtiin. Tehtävät ovat suuntaa-antavasti haastavuuden mukaan kasvavassa järjestyksessä.
 
-1. [Tervehdys](./tervehdys.py)
-2. [Viikonpäivä](./viikonpaiva.py)
-3. [Puuttuva kirjain](./puuttuva_kirjain.py)
-4. [Alkukirjaimet](./alkukirjaimet.py)
-5. [Bingo](./bingo.py)
+1. [](./)
+2. [Kiertävä indeksi](./kiertava_indeksi.py)
+3. [Öitä jouluun](./oita_jouluun.py)
+4. [Lukusarja](./lukusarja.py)
+5. [](./)
 
 Jokaisen tehtävän painoarvo arvioinnissa on sama.
 
