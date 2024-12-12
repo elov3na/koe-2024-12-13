@@ -67,7 +67,7 @@ vuoden jouluaattoon:
     '23 yötä jouluun'
 
 
-Huomaa, että funktiosi ei saa tulostaa mitään, vaan sen tulee aina palauttaa kokonaisluku.
+Huomaa, että funktiosi ei saa tulostaa mitään, vaan sen tulee aina palauttaa merkkijono.
 
     >>> joululaskuri("20.12.2024") == '4 yötä jouluun'      # palauta teksti, älä tulosta mitään
     True

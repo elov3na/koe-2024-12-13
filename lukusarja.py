@@ -13,8 +13,15 @@ Ensimmäisen luvun jälkeen seuraava luku asetetaan aina seuraavien sääntöjen
 Tätä logiikkaa toistetaan, kunnes saavutetaan luku 1.
 
 Jos siis lukusarjan ensimmäinen luku on esimerkiksi seitsemän (pariton), seuraava luku saadaan kertomalla
-7 kolmella ja lisäämällä yksi: 7 * 3 + 1 = 22. Luvusta 22 (parillinen) seuraava luku saadaan jakamalla
-se kahdella, eli 22 / 2 = 11. Tätä logiikkaa jatketaan, kunnes lukusarja saavuttaa ykkösen:
+7 kolmella ja lisäämällä yksi: 7 * 3 + 1 = 22.
+
+7 -> 22
+
+Luku 22 on parillinen, joten seuraava luku saadaan jakamalla se kahdella, eli 22 / 2 = 11:
+
+7 -> 22 -> 11
+
+Tätä logiikkaa jatketaan, kunnes lukusarja saavuttaa ykkösen:
 
 7 -> 22 -> 11 -> 34 -> 17 -> 52 -> 26 -> 13 -> 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
 
