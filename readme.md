@@ -6,7 +6,7 @@ Kukin tehtävänanto löytyy erillisestä `.py`-tiedostosta. Tehtävien ratkaisu
 3. [Joululaskuri](./joululaskuri.py)
 2. [Kiertävä indeksi](./kiertava_indeksi.py)
 4. [Lukusarja](./lukusarja.py)
-5. [](./)
+5. [Sanahaku](./sanahaku.py)
 
 Jokaisen tehtävän painoarvo arvioinnissa on sama.
 
