@@ -2,7 +2,7 @@
 
 Kukin tehtävänanto löytyy erillisestä `.py`-tiedostosta. Tehtävien ratkaisut tulee toteuttaa näihin samoihin tiedostoihin ratkaisuille varattuihin kohtiin. Tehtävät ovat suuntaa-antavasti haastavuuden mukaan kasvavassa järjestyksessä.
 
-1. [](./)
+1. [Laske lahjat](./laske_lahjat.py)
 3. [Joululaskuri](./joululaskuri.py)
 2. [Kiertävä indeksi](./kiertava_indeksi.py)
 4. [Lukusarja](./lukusarja.py)
