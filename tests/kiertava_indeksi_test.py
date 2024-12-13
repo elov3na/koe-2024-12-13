@@ -55,7 +55,3 @@ def test_negatiivinen_indeksi_kiertaa(lista):
     assert kiertava_indeksi(lista, -7) == lista[-2]
     assert kiertava_indeksi(lista, -10_001) == lista[-1]
     assert kiertava_indeksi(lista, -10_002) == lista[-2]
-
-
-def vertaa(a: str, b: str):
-    assert a.lower() == b.lower()
